@@ -1,0 +1,20 @@
+saturday:
+  lessons:
+    firstLesson:
+      time: "17:00-18:30"
+      place: "Кронверский пр., д.49, лит.А 1410 ауд."
+      nameLesson: "ПРАКТИКУМ ПО BACKEND-РАЗРАБОТКЕ НА ЯЗЫКЕ GO"
+      typeActivity: "Практика"
+      typeMeeting: "Очно-дистанционный"
+    secondLesson:
+      time: "18:40-20:10"
+      place: "Кронверский пр., д.49, лит.А 1410 ауд."
+      nameLesson: "АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ"
+      typeActivity: "Лекция"
+      typeMeeting: "Очно-дистанционный"
+    thirdLesson:
+      time: "20:20-21:50"
+      place: "Кронверский пр., д.49, лит.А 1410 ауд."
+      nameLesson: "ЯЗЫКИ ПРОГРАММИРОВАНИЯ"
+      typeActivity: "Практика"
+      typeMeeting: "Очно-дистанционный"
